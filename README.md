@@ -34,13 +34,19 @@ Your posts will tell them.
 
 There is a difference between a bouncer and someone who won’t leave the house without a 40-item checklist of who they’re allowed to meet. One is reasonable, the other is simply tribalism.
 
-#### Q: What about genuinely bad actors?
 
-Block them. That has always been the answer. No DNI list has ever stopped a bad actor. It has only given good-faith people a reason to walk away.
+#### Q: But what if I just don’t like someone’s views?
+
+You may block them. That has always been your right. But consider, if you are filtering out everyone who thinks differently from you, you are not curating a safe space. You are building an echo chamber. You will never be challenged, never be wrong, and never grow. The internet shoild
+not be a mirror.
+
+#### Q: But my DNI list keeps me safe.
+
+A DNI list is a suggestion. Bad actors do not read suggestions. A genuine predator, stalker, or harasser is not checking your bio before they act. The people who respected your list were never the threat. The block button, content warnings, and platform reporting tools are doing the actual work. Use them. But do not confuse a list of labels with safety. It was never that.
 
 #### Q: This is clearly made by someone who wants to harass people.
 
-That wasn’t a question. And no — this is made by someone who noticed that we have sorted ourselves into so many categories that we’ve forgotten how to just talk to each other. The DNI list did not create community. It created a hundred smaller ones, each convinced the others are dangerous.
+That wasn’t a question. And no, this is made by someone who noticed that we have sorted ourselves into so many categories that we’ve forgotten how to just talk to each other. The DNI list did not create community. It created a hundred smaller ones, each convinced the others are dangerous.
 
 #### Q: Why don’t you care about my labels?
 
