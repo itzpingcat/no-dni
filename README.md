@@ -37,7 +37,7 @@ There is a difference between a bouncer and someone who won’t leave the house 
 
 #### Q: But what if I just don’t like someone’s views?
 
-You may block them. That has always been your right. But consider, if you are filtering out everyone who thinks differently from you, you are not curating a safe space. You are building an echo chamber. You will never be challenged, never be wrong, and never grow. The internet shoild
+You may block them. That has always been your right. But consider, if you are filtering out everyone who thinks differently from you, you are not curating a safe space. You are building an echo chamber. You will never be challenged, never be wrong, and never grow. The internet should
 not be a mirror.
 
 #### Q: But my DNI list keeps me safe.
